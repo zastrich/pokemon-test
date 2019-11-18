@@ -13,17 +13,21 @@ cd pokemon-test
 >Instalar as dependências:
 ```
 npm install
+ou
+yarn install
 ```
 
 >Iniciar a partir do NPM ou YARN:
 ```
 npm run start
+ou
 yarn start
 ```
 
 >O projeto irá executar localmente, caso queria fazer um BUILD do projeto é só rodar:
 ```
 npm run build
+ou
 yarn build
 ```
 
