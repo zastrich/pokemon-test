@@ -32,3 +32,5 @@ yarn build
 ```
 
 >Ao efetuar o BUILD a pasta "/build" surgirá na raíz da aplicação, os arquivos poderão ser movidos em absolutamente qualquer servidor HTTP.
+
+>Exemplo de deploy no HEROKU, linkado diretamente com o GitHub: https://zas-pokemon.herokuapp.com/
